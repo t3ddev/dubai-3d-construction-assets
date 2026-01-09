@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="800" height="140">
   <style>
     .text {
       fill: #231f20;
@@ -10,5 +10,5 @@
       text-anchor: middle;
     }
   </style>
-  <text class="text" x="400" y="100" textLength="795" lengthAdjust="spacingAndGlyphs">Al-Jaddaf</text>
+  <text class="text" x="398" y="89" textLength="795" lengthAdjust="spacingAndGlyphs">Al-Jaddaf</text>
 </svg>
