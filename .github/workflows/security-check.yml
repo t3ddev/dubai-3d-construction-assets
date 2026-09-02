@@ -1,0 +1,10 @@
+name: Security check
+
+on: [push, pull_request]
+
+jobs:
+  js-injection:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: ./scripts/check-js-injection.sh
